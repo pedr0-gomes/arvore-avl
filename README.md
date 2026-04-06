@@ -12,6 +12,9 @@ Implementação de Árvore AVL em C com inserção e remoção balanceadas.
 | `avl.c` | Implementação da árvore |
 | `insercao.c` | Harness de testes — inserção |
 | `remocao.c` | Harness de testes — remoção |
+| `template.c` | Esqueleto para novos harnesses |
+| `template_insercao.c` | Ponto de partida para implementar a inserção |
+| `template_remocao.c` | Ponto de partida para implementar a remoção |
 
 ## Como compilar
 ```bash
